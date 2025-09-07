@@ -1,8 +1,0 @@
-{
-  "projectId": "your-vercel-project-id",
-  "orgId": "your-org-id",
-  "settings": {
-    "framework": "nextjs",
-    "rootDirectory": "web"
-  }
-}
